@@ -7,88 +7,12 @@ Welcome to my **AI Bootcamp** repository. This repository contains my hands-on l
 | Branch  | Description                           |
 | ------- | ------------------------------------- |
 | `main`  | Repository overview and documentation |
-| `lab-1` | Python Fundamentals                   |
-| `lab-2` | NumPy Essentials                      |
-| `lab-3` | Pandas for Data Analysis              |
-| `lab-4` | Data Visualization                    |
-| `lab-5` | Exploratory Data Analysis (EDA)       |
-
----
-
-## Lab Details
-
-###  Lab 1 – Python Fundamentals
-
-Topics Covered:
-
-* Variables and Data Types
-* Operators
-* Input and Output
-* Conditional Statements
-* Loops
-* Functions
-* Lists, Tuples, Sets, and Dictionaries
-* Basic File Handling
-* Jupyter Notebook and VS Code Practice
-
----
-
-### Lab 2 – NumPy Essentials
-
-Topics Covered:
-
-* Creating NumPy Arrays
-* Array Indexing and Slicing
-* Reshaping Arrays
-* Mathematical Operations
-* Broadcasting
-* Statistical Functions
-* Random Number Generation
-
----
-
-###  Lab 3 – Pandas for Data Analysis
-
-Topics Covered:
-
-* Series and DataFrames
-* Reading CSV Files
-* Data Cleaning
-* Handling Missing Values
-* Filtering and Sorting
-* GroupBy Operations
-* Merge and Join
-* Pivot Tables
-* Aggregation Functions
-
----
-
-###  Lab 4 – Data Visualization
-
-Topics Covered:
-
-* Matplotlib Basics
-* Line Charts
-* Bar Charts
-* Histograms
-* Pie Charts
-* Scatter Plots
-* Subplots
-* Plot Customization
-
----
-
-### Lab 5 – Exploratory Data Analysis (EDA)
-
-Topics Covered:
-
-* Dataset Exploration
-* Summary Statistics
-* Missing Value Analysis
-* Correlation Analysis
-* Feature Relationships
-* Outlier Detection
-* Data Visualization for Insights
+| `lab-1` | includes lab-1                        |
+| `lab-2` | includes lab-2                        |
+| `lab-3` | includes lab-3                        |
+| `lab-4` | includes lab-4                        |
+| `lab-5` | includes lab-5                        |
+| `lab-7` | includes lab-7                        | 
 
 ---
 
