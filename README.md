@@ -12,7 +12,7 @@ Welcome to my **AI Bootcamp** repository. This repository contains my hands-on l
 | `lab-3` | includes lab-3                        |
 | `lab-4` | includes lab-4                        |
 | `lab-5` | includes lab-5                        |
-| `lab-7` | includes lab-7                        | 
+| `lab-6` | includes lab-6                        | 
 
 ---
 
