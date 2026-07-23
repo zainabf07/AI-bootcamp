@@ -13,59 +13,157 @@ Welcome to my Artificial Intelligence Bootcamp repository.
 
 This repository documents my learning journey through practical labs, assignments, and machine learning projects completed during an AI Bootcamp.
 
-# 🤖 AI Bootcamp
+## 📈 Progress
 
-Welcome to my **AI Bootcamp** repository. This repository contains my hands-on labs, notebooks, and practical exercises completed during the AI Bootcamp. Each lab focuses on a different topic in Artificial Intelligence, Python programming, and data analysis.
+- ✅ Python Programming
+- ✅ NumPy
+- ✅ Pandas
+- ✅ Data Visualization
+- ✅ Linear Regression
+- ✅ Decision Trees
+- ✅ Support Vector Machine
+- ✅ K-Fold Validation
+- ✅ K-Means Clustering
+- ✅ Principal Component Analysis
+- ⏳ Deep Learning (Coming Soon)
+- ⏳ Neural Networks (Coming Soon)
 
-## Repository Structure
+## 📂 Repository Structure
 
-| Branch  | Description                           |
-| ------- | ------------------------------------- |
-| `main`  | Repository overview and documentation |
-| `lab-1` | includes lab-1                        |
-| `lab-2` | includes lab-2                        |
-| `lab-3` | includes lab-3                        |
-| `lab-4` | includes lab-4                        |
-| `lab-5` | includes lab-5                        |
-| `lab-6` | includes lab-6                        | 
+ai-bootcamp
+│
+├── lab-1
+├── lab-2
+├── lab-3
+├── lab-4
+├── lab-5
+├── lab-6
+├── lab-7
+├── lab-8
+├── lab-9
+├── lab-10
+├── lab-11
+└── lab-12
+
+## 🧠 Topics Covered
+
+Throughout the bootcamp, I explored a variety of AI and Machine Learning concepts including:
+
+- Python Programming
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Data Visualization
+- Data Preprocessing
+- Machine Learning Workflow
+- Linear Regression
+- Decision Trees
+- Support Vector Machines (SVM)
+- K-Fold Cross Validation
+- K-Means Clustering
+- Principal Component Analysis (PCA)
+- Model Evaluation
+- Working with Real-world Datasets
 
 ---
 
-##  Technologies Used
+## 📂 Important Labs
 
-* Python 3.x
-* Jupyter Notebook
-* Visual Studio Code
-* NumPy
-* Pandas
-* Matplotlib
+### Week 3 Labs
+- Day 1
+- Day 2
+- Day 3
+- Day 4
 
----
-
-##  Learning Objectives
-
-* Build a strong foundation in Python programming.
-* Learn scientific computing using NumPy.
-* Perform real-world data analysis using Pandas.
-* Create meaningful visualizations using Matplotlib.
-* Apply Exploratory Data Analysis techniques to understand datasets.
+### Machine Learning Labs
+- Linear Regression
+- Decision Tree Classifier
+- Support Vector Machine
+- K-Fold Validation
+- K-Means Clustering (Iris Dataset)
+- Principal Component Analysis (PCA)
 
 ---
 
-## 🚀 How to Run
+## 📊 Datasets Used
 
-1. Clone the repository.
-2. Switch to the required lab branch.
-3. Open the Jupyter Notebook (`.ipynb`) files.
-4. Run all cells sequentially.
+Some datasets included in this repository are:
 
-Example:
+- Heart Disease Dataset
+- Iris Dataset
+- Titanic Dataset
+- Car Price Dataset
+- Hiring Dataset
+
+These datasets are used solely for educational and learning purposes.
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+---
+
+## 🚀 Learning Outcomes
+
+By completing these labs, I gained practical experience in:
+
+- Data preprocessing
+- Feature engineering
+- Exploratory Data Analysis (EDA)
+- Supervised Learning
+- Unsupervised Learning
+- Model training and testing
+- Performance evaluation
+- Building end-to-end machine learning workflows
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
 
 ```bash
-git clone https://github.com/zainabf07/AI-bootcamp.git
-cd AI-bootcamp
-git checkout lab-1
+git clone https://github.com/<your-username>/ai-bootcamp.git
 ```
+
+2. Navigate to the project
+
+```bash
+cd ai-bootcamp
+```
+
+3. Install required libraries
+
+```bash
+pip install numpy pandas matplotlib scikit-learn notebook
+```
+
+4. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+5. Open any notebook and start exploring.
+
+---
+
+## 📌 Purpose
+
+This repository serves as a record of my learning journey during the AI Bootcamp and demonstrates practical implementation of fundamental Artificial Intelligence and Machine Learning concepts.
+
+---
+
+## 📄 License
+
+This repository is intended for educational purposes. Feel free to explore and learn from the code.
 
 ---
 
@@ -80,4 +178,4 @@ GitHub: https://github.com/zainabf07
 ###  Thank You
 
 This repository documents my learning journey throughout the AI Bootcamp. I will continue updating it as I complete additional labs and projects.
-
+### ⭐ If you found this repository useful, consider giving it a star!
