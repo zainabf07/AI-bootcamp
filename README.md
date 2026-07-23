@@ -1,3 +1,18 @@
+# 🤖 AI Bootcamp Portfolio
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific-blue?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
+
+---
+
+Welcome to my Artificial Intelligence Bootcamp repository.
+
+This repository documents my learning journey through practical labs, assignments, and machine learning projects completed during an AI Bootcamp.
+
 # 🤖 AI Bootcamp
 
 Welcome to my **AI Bootcamp** repository. This repository contains my hands-on labs, notebooks, and practical exercises completed during the AI Bootcamp. Each lab focuses on a different topic in Artificial Intelligence, Python programming, and data analysis.
