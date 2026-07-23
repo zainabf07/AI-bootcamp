@@ -30,20 +30,24 @@ This repository documents my learning journey through practical labs, assignment
 
 ## 📂 Repository Structure
 
-ai-bootcamp
+
+```
+ai-bootcamp/
 │
-├── lab-1
-├── lab-2
-├── lab-3
-├── lab-4
-├── lab-5
-├── lab-6
-├── lab-7
-├── lab-8
-├── lab-9
-├── lab-10
-├── lab-11
-└── lab-12
+├── lab-1/
+├── lab-2/
+├── lab-3/
+├── lab-4/
+├── lab-5/
+├── lab-6/
+├── lab-7/
+├── lab-8/
+├── lab-9/
+├── lab-10/
+├── lab-11/
+├── lab-12/
+└── README.md
+```
 
 ## 🧠 Topics Covered
 
