@@ -46,6 +46,18 @@ ai-bootcamp/
 ├── lab-10/
 ├── lab-11/
 ├── lab-12/
+├── lab-13/
+├── lab-14/
+├── lab-15/
+├── lab-16/
+├── lab-17/
+├── lab-18/
+├── lab-19/
+├── lab-20/
+├── lab-21/
+├── lab-22/
+├── lab-23/
+├── lab-24/
 └── README.md
 ```
 
