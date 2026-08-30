@@ -1,37 +1,125 @@
-# 🤖 AI Bootcamp Portfolio
+🤖 AI Bootcamp Portfolio
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific-blue?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
+"Python" (https://img.shields.io/badge/Python-3.11-blue?logo=python)
+"Jupyter" (https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+"NumPy" (https://img.shields.io/badge/NumPy-Scientific-blue?logo=numpy)
+"Pandas" (https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+"Scikit-Learn" (https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
+"PyTorch" (https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch)
+"Git" (https://img.shields.io/badge/Git-Version%20Control-red?logo=git)
 
 ---
 
-Welcome to my Artificial Intelligence Bootcamp repository.
+Welcome to my Artificial Intelligence Bootcamp Portfolio! 🤖
 
-This repository documents my learning journey through practical labs, assignments, and machine learning projects completed during an AI Bootcamp.
+This repository documents my learning journey throughout an AI Bootcamp, including practical labs, assignments, experiments, and projects covering Python, Machine Learning, Deep Learning, Computer Vision, Transformers, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
 
-## 📈 Progress
+The repository is continuously updated as I progress through the bootcamp.
+
+---
+
+📈 Learning Progress
+
+🗓 Month 1 — AI & Machine Learning Foundations
 
 - ✅ Python Programming
+- ✅ Jupyter Notebook
 - ✅ NumPy
 - ✅ Pandas
 - ✅ Data Visualization
+- ✅ Data Preprocessing
+- ✅ Exploratory Data Analysis
+- ✅ Machine Learning Workflow
 - ✅ Linear Regression
 - ✅ Decision Trees
-- ✅ Support Vector Machine
-- ✅ K-Fold Validation
+- ✅ Support Vector Machines (SVM)
+- ✅ K-Fold Cross Validation
 - ✅ K-Means Clustering
-- ✅ Principal Component Analysis
-- ⏳ Deep Learning (Coming Soon)
-- ⏳ Neural Networks (Coming Soon)
+- ✅ Principal Component Analysis (PCA)
+- ✅ Model Evaluation
+- ✅ Working with Real-world Datasets
 
-## 📂 Repository Structure
+---
 
+🗓 Month 2 — Deep Learning, Computer Vision & Transformers
 
-```
+Week 5 — 🚀 Supercharge Your Models: Tuning & Deployment
+
+- ✅ Model Evaluation
+- ✅ Hyperparameter Tuning
+- ✅ Model Optimization
+- ✅ Improving Model Performance
+- ✅ Model Deployment Concepts
+
+Week 6 — 🧠 Deep Dive: Neural Networks & Deep Learning 101
+
+- ✅ Introduction to Neural Networks
+- ✅ Artificial Neural Networks (ANNs)
+- ✅ Deep Learning Fundamentals
+- ✅ Activation Functions
+- ✅ Forward Propagation
+- ✅ Backpropagation
+- ✅ Training Neural Networks
+
+Week 7 — 👁️ Visionary Tech: CNNs & AI Eyes
+
+- ✅ Computer Vision Fundamentals
+- ✅ Convolutional Neural Networks (CNNs)
+- ✅ Image Classification
+- ✅ Feature Extraction
+- ✅ Object Detection
+- ✅ Image Segmentation
+
+Week 8 — 🔄 Meet the Transformers: Powering LLMs
+
+- ✅ Transformers
+- ✅ Attention Mechanisms
+- ✅ Large Language Models (LLMs)
+- ✅ GPT
+- ✅ BERT
+- ✅ T5
+- ✅ Natural Language Processing Concepts
+
+---
+
+🗓 Month 3 — LLM Applications, Generative AI & AI Agents
+
+Week 9 — 🤖 Smart Apps: Building LLM Projects + RAG Systems
+
+- 🚀 Building LLM Applications
+- 🚀 Retrieval-Augmented Generation (RAG)
+- 🚀 Vector Databases
+- 🚀 Embeddings
+- 🚀 Document Retrieval
+- 🚀 Building AI-Powered Applications
+
+Week 10 — ✨ Create with AI: Generative Models & Prompt Crafting
+
+- ⏳ Generative AI
+- ⏳ Generative Models
+- ⏳ Prompt Engineering
+- ⏳ Prompt Design
+- ⏳ AI Content Generation
+
+Week 11 — 🤝 Rise of AI Agents: From Tools to Teammates
+
+- ⏳ AI Agents
+- ⏳ Tool Calling
+- ⏳ Agent Workflows
+- ⏳ Multi-Step AI Systems
+- ⏳ AI Automation
+
+Week 12 — 🏆 Level Up: Capstone Projects & Special Topics
+
+- ⏳ AI Capstone Project
+- ⏳ Real-world AI Applications
+- ⏳ Special Topics
+- ⏳ Final Project Development
+
+---
+
+📂 Repository Structure
+
 ai-bootcamp/
 │
 ├── lab-1/
@@ -58,12 +146,26 @@ ai-bootcamp/
 ├── lab-22/
 ├── lab-23/
 ├── lab-24/
+├── lab-25/
+├── lab-26/
+├── lab-27/
+├── lab-28/
+├── lab-29/
+├── lab-30/
+├── lab-31/
+├── lab-32/
+│
 └── README.md
-```
 
-## 🧠 Topics Covered
+«📌 Labs are organized according to the topics and practical exercises completed throughout the AI Bootcamp.»
 
-Throughout the bootcamp, I explored a variety of AI and Machine Learning concepts including:
+---
+
+🧠 Topics Covered
+
+Throughout the bootcamp, I have explored a wide range of Artificial Intelligence and Machine Learning concepts, including:
+
+🐍 Programming & Data Science
 
 - Python Programming
 - Jupyter Notebook
@@ -71,7 +173,14 @@ Throughout the bootcamp, I explored a variety of AI and Machine Learning concept
 - Pandas
 - Data Visualization
 - Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+
+🤖 Machine Learning
+
 - Machine Learning Workflow
+- Supervised Learning
+- Unsupervised Learning
 - Linear Regression
 - Decision Trees
 - Support Vector Machines (SVM)
@@ -79,43 +188,69 @@ Throughout the bootcamp, I explored a variety of AI and Machine Learning concept
 - K-Means Clustering
 - Principal Component Analysis (PCA)
 - Model Evaluation
-- Working with Real-world Datasets
+- Hyperparameter Tuning
+
+🧠 Deep Learning
+
+- Neural Networks
+- Artificial Neural Networks (ANNs)
+- Activation Functions
+- Forward Propagation
+- Backpropagation
+- Deep Learning Fundamentals
+
+👁️ Computer Vision
+
+- Convolutional Neural Networks (CNNs)
+- Image Classification
+- Object Detection
+- Image Segmentation
+- Computer Vision Fundamentals
+
+🔄 Natural Language Processing & Transformers
+
+- Transformers
+- Attention Mechanisms
+- GPT
+- BERT
+- T5
+- Large Language Models (LLMs)
+
+🤖 Generative AI & LLM Applications
+
+- Generative AI
+- Prompt Engineering
+- LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Vector Databases
+- Document Retrieval
+
+🤝 AI Agents
+
+- AI Agents
+- Tool Calling
+- AI Workflows
+- AI Automation
+- Agent-Based Systems
 
 ---
 
-## 📂 Important Labs
+📊 Datasets Used
 
-### Week 3 Labs
-- Day 1
-- Day 2
-- Day 3
-- Day 4
+Some of the datasets explored throughout this repository include:
 
-### Machine Learning Labs
-- Linear Regression
-- Decision Tree Classifier
-- Support Vector Machine
-- K-Fold Validation
-- K-Means Clustering (Iris Dataset)
-- Principal Component Analysis (PCA)
-
----
-
-## 📊 Datasets Used
-
-Some datasets included in this repository are:
-
-- Heart Disease Dataset
-- Iris Dataset
-- Titanic Dataset
-- Car Price Dataset
-- Hiring Dataset
+- ❤️ Heart Disease Dataset
+- 🌸 Iris Dataset
+- 🚢 Titanic Dataset
+- 🚗 Car Price Dataset
+- 💼 Hiring Dataset
 
 These datasets are used solely for educational and learning purposes.
 
 ---
 
-## 🛠 Technologies Used
+🛠 Technologies & Tools Used
 
 - Python 3
 - Jupyter Notebook
@@ -123,75 +258,119 @@ These datasets are used solely for educational and learning purposes.
 - Pandas
 - Matplotlib
 - Scikit-learn
+- Deep Learning Frameworks
+- Git
+- GitHub
+
+Additional tools and technologies will be added as I progress through the upcoming modules and projects.
 
 ---
 
-## 🚀 Learning Outcomes
+🚀 Learning Outcomes
 
-By completing these labs, I gained practical experience in:
+Through this AI Bootcamp, I have gained practical experience in:
 
-- Data preprocessing
+- Writing Python programs for AI and Data Science
+- Data preprocessing and cleaning
 - Feature engineering
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis
+- Training Machine Learning models
+- Evaluating model performance
 - Supervised Learning
 - Unsupervised Learning
-- Model training and testing
-- Performance evaluation
-- Building end-to-end machine learning workflows
+- Building end-to-end Machine Learning workflows
+- Understanding Neural Networks and Deep Learning
+- Working with Computer Vision concepts
+- Building and understanding CNN architectures
+- Exploring Transformers and Large Language Models
+- Understanding GPT, BERT, and T5
+- Working with Generative AI concepts
+- Building Retrieval-Augmented Generation (RAG) systems
+- Designing AI-powered applications
+- Exploring AI Agents and automated AI workflows
 
 ---
 
-## ▶️ How to Run
+📚 Bootcamp Roadmap
 
-1. Clone the repository
+Month| Week| Topic
+Month 1| Weeks 1–4| Python, Data Science & Machine Learning Foundations
+Month 2| Week 5| 🚀 Supercharge Your Models: Tuning & Deployment
+Month 2| Week 6| 🧠 Deep Dive: Neural Networks & Deep Learning 101
+Month 2| Week 7| 👁️ Visionary Tech: CNNs & AI Eyes
+Month 2| Week 8| 🔄 Meet the Transformers: Powering LLMs
+Month 3| Week 9| 🤖 Smart Apps: Building LLM Projects + RAG Systems
+Month 3| Week 10| ✨ Create with AI: Generative Models & Prompt Crafting
+Month 3| Week 11| 🤝 Rise of AI Agents: From Tools to Teammates
+Month 3| Week 12| 🏆 Level Up: Capstone Projects & Special Topics
 
-```bash
-git clone https://github.com/<your-username>/ai-bootcamp.git
-```
+---
 
-2. Navigate to the project
+▶️ How to Run
 
-```bash
+1. Clone the Repository
+
+git clone https://github.com/zainabf07/ai-bootcamp.git
+
+2. Navigate to the Project
+
 cd ai-bootcamp
-```
 
-3. Install required libraries
+3. Install Required Libraries
 
-```bash
 pip install numpy pandas matplotlib scikit-learn notebook
-```
 
 4. Launch Jupyter Notebook
 
-```bash
 jupyter notebook
-```
 
-5. Open any notebook and start exploring.
+5. Explore the Labs
 
----
-
-## 📌 Purpose
-
-This repository serves as a record of my learning journey during the AI Bootcamp and demonstrates practical implementation of fundamental Artificial Intelligence and Machine Learning concepts.
+Open any lab notebook and start exploring the concepts and implementations.
 
 ---
 
-## 📄 License
+📌 Purpose
 
-This repository is intended for educational purposes. Feel free to explore and learn from the code.
+This repository serves as a portfolio of my learning journey throughout the Artificial Intelligence Bootcamp.
+
+It demonstrates my practical experience with:
+
+- 🤖 Artificial Intelligence
+- 📊 Data Science
+- 📈 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 🔄 Transformers
+- 💬 Large Language Models
+- 📚 Retrieval-Augmented Generation
+- ✨ Generative AI
+- 🤝 AI Agents
+
+I will continue updating this repository as I complete additional labs, projects, and my final capstone project.
 
 ---
 
-##  Author
+📄 License
 
-**Zainab Fatima**
+This repository is intended for educational purposes.
+
+Feel free to explore and learn from the code.
+
+---
+
+👩‍💻 Author
+
+Zainab Fatima
 
 GitHub: https://github.com/zainabf07
 
 ---
 
-###  Thank You
+🙌 Thank You
 
-This repository documents my learning journey throughout the AI Bootcamp. I will continue updating it as I complete additional labs and projects.
-### ⭐ If you found this repository useful, consider giving it a star!
+Thank you for visiting my AI Bootcamp Portfolio!
+
+This repository documents my journey of continuously learning and building in the field of Artificial Intelligence. 🚀🤖
+
+⭐ If you find this repository useful, consider giving it a star!
