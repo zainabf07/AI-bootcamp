@@ -66,7 +66,6 @@ Week 7 — 👁️ Visionary Tech: CNNs & AI Eyes
 - ✅ Computer Vision Fundamentals
 - ✅ Convolutional Neural Networks (CNNs)
 - ✅ Image Classification
-- ✅ Feature Extraction
 - ✅ Object Detection
 - ✅ Image Segmentation
 
@@ -258,7 +257,7 @@ These datasets are used solely for educational and learning purposes.
 - Pandas
 - Matplotlib
 - Scikit-learn
-- Deep Learning Frameworks
+- PyTorch
 - Git
 - GitHub
 
